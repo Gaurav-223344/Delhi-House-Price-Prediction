@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 
 app = Flask(__name__)
 
-model = pickle.load(open('model.pkl', 'rb'))
+model = pickle.load(open('model_XGB.pkl', 'rb'))
 
 @app.route('/',methods=['GET'])
 def Home():
@@ -51,39 +51,39 @@ def predict():
             Furnishing_freq_Unfurnished = 0
         
         Locality_encoder = request.form['locality']
-        dictionary = {'Alaknanda': 18006897.0,
-                     'Budh Vihar': 3825000.0,
-                     'Chhattarpur': 8783000.0,
-                     'Chittaranjan Park': 26335714.0,
-                     'Commonwealth Games Village': 45646667.0,
-                     'Dilshad Garden': 7226000.0,
-                     'Greater Kailash': 52061905.0,
-                     'Hauz Khas': 68466667.0,
-                     'Kalkaji': 13361290.0,
-                     'Karol Bagh': 21173125.0,
-                     'Kirti Nagar': 24520000.0,
-                     'Lajpat Nagar': 27556778.0,
-                     'Laxmi Nagar': 5966176.0,
-                     'Mahavir': 4108000.0,
-                     'Malviya Nagar': 33150000.0,
-                     'Mehrauli': 4736667.0,
-                     'Narela': 2429667.0,
-                     'New Friends Colony': 72709677.0,
-                     'Okhla': 20601471.0,
-                     'Paschim Vihar': 15759000.0,
-                     'Patel Nagar': 35876389.0,
-                     'Punjabi Bagh': 33103333.0,
-                     'Rohini Sector': 8895972.0,
-                     'Safdarjung': 42983333.0,
-                     'Saket': 34876667.0,
-                     'Sarita Vihar': 14507143.0,
-                     'Shahdara': 11036267.0,
-                     'Sheikh Sarai': 13056667.0,
-                     'Sultanpur': 5711111.0,
-                     'Uttam Nagar': 3472692.0,
-                     'Vasant Kunj': 20433333.0,
-                     'Vasundhara': 11105000.0,
-                     'other': 12942544.0}
+        dictionary =    {'Alaknanda': 18007143.0,
+                         'Budh Vihar': 3825000.0,
+                         'Chhattarpur': 8783000.0,
+                         'Chittaranjan Park': 26335714.0,
+                         'Commonwealth Games Village': 45646667.0,
+                         'Dilshad Garden': 7226000.0,
+                         'Greater Kailash': 50513636.0,
+                         'Hauz Khas': 73134615.0,
+                         'Kalkaji': 13361290.0,
+                         'Karol Bagh': 21173125.0,
+                         'Kirti Nagar': 24520000.0,
+                         'Lajpat Nagar': 27556778.0,
+                         'Laxmi Nagar': 5966176.0,
+                         'Mahavir': 4108000.0,  
+                         'Malviya Nagar': 33150000.0,
+                         'Mehrauli': 4736667.0,
+                         'Narela': 2429667.0,
+                         'New Friends Colony': 72709677.0,
+                         'Okhla': 20601471.0,
+                         'Paschim Vihar': 15759000.0,
+                         'Patel Nagar': 35876389.0,
+                         'Punjabi Bagh': 33103333.0,
+                         'Rohini Sector': 8895972.0,
+                         'Safdarjung': 42411765.0,
+                         'Saket': 34876667.0,
+                         'Sarita Vihar': 14507143.0,
+                         'Shahdara': 11036267.0,
+                         'Sheikh Sarai': 13056667.0,
+                         'Sultanpur': 5711111.0,
+                         'Uttam Nagar': 3472692.0,
+                         'Vasant Kunj': 20433333.0,
+                         'Vasundhara': 11105000.0,
+                         'other': 12942544.0}
         
  #       Locality_encoder = Locality.map(dictionary)
         

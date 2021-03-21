@@ -82,6 +82,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ├── Procfile
 └── README.md
 
+```
 ## Technologies Used
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)

@@ -13,7 +13,7 @@
   * [Credits](#credits)
 
 ## Overview
-This is a house price prediction Flask app. The trained model takes input as Area of the Property in square feet, BHK, No. of Bathrooms, Whether listed property is furnished , unfurnished or semi furnished, Locality(in dehli) , No. of Parking, property's status, Transaction, property type, Price per square feet etc and then predict approx house price in dehli.
+This is a house price prediction Flask app. The trained model takes input as Area of the Property in square feet, BHK, No. of Bathrooms, Whether listed property is furnished , unfurnished or semi furnished, Locality(in dehli) , No. of Parking, property's status, Transaction, property type, Price per square feet etc and then predict approx house price.
 
 ## Motivation
 I have done property price prediction on Boston Dataset and california dataset so i was wondering, if i can do it for Indian properties too.

@@ -1,7 +1,6 @@
 # Delhi-House-Price-Prediction
 
-<img target="_blank" src="hhttps://github.com/Gaurav-223344/Delhi-House-Price-Prediction/tree/main/static/img/demo.jpg
-" width=400>
+<img target="_blank" src="hhttps://github.com/Gaurav-223344/Delhi-House-Price-Prediction/tree/main/static/img/demo.jpg" width=400>
 
 ## Table of Content
   * [Overview](#overview)

@@ -18,7 +18,7 @@
 <img target="_blank" src="https://raw.githubusercontent.com/Gaurav-223344/Delhi-House-Price-Prediction/main/static/img/demo.png" width=700>
 
 ## Teableau Dashboard
-<img target="_blank" src="https://raw.githubusercontent.com/Gaurav-223344/Delhi-House-Price-Prediction/main/static/img/teableau%20SS.png" width=700>
+<img target="_blank" src="https://raw.githubusercontent.com/Gaurav-223344/Delhi-House-Price-Prediction/main/static/img/teableau%20SS.png" width=800>
 
 ## Overview
 This is a house price prediction Flask app. The trained model takes input as Area of the Property in square feet, BHK, No. of Bathrooms, Whether listed property is furnished , unfurnished or semi furnished, Locality(in dehli) , No. of Parking, property's status, Transaction, property type, Price per square feet etc and then predict approx house price.

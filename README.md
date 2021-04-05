@@ -1,7 +1,7 @@
 # Delhi-House-Price-Prediction
 
 ## Table of Content
-  * [Screenshots of Application](](#screenshots-of-application)
+  * [Screenshots of Application](#screenshots-of-application)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)

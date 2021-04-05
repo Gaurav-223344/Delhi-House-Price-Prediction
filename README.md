@@ -1,7 +1,7 @@
 # Delhi-House-Price-Prediction
 
 ## Table of Content
-  * [Screenshots of Application](screenshots-of-application)
+  * [Screenshots of Application](](#screenshots-of-application)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Technical Aspect](#technical-aspect)
@@ -14,7 +14,7 @@
   * [Credits](#credits)
 
 ## Screenshots of Application
-<img target="_blank" src="https://raw.githubusercontent.com/Gaurav-223344/Delhi-House-Price-Prediction/main/static/img/demo.png" hight=500 width=700>
+<img target="_blank" src="https://raw.githubusercontent.com/Gaurav-223344/Delhi-House-Price-Prediction/main/static/img/demo.png" width=700>
 
 
 ## Overview

@@ -11,6 +11,7 @@
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
   * [Contributor](#contributor)
+  * [TODO](#todo)
   * [Acknowledgements](#acknowledgements)
 
 ## Screenshots of Application
@@ -84,6 +85,10 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Contributor
 [Gaurav-Gaikwad](https://github.com/Gaurav-223344)
+
+## TODO
+
+#### Better FrontEnd
 
 ## Acknowledgements
 - [Kaggle](https://www.kaggle.com/neelkamal692/delhi-house-price-prediction?select=MagicBricks.csv) - This project wouldn't have been possible without this dataset. It saved my enormous amount of time while collecting the data.

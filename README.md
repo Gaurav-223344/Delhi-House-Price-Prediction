@@ -40,9 +40,9 @@ Open terminal :
 ```bash
 $ python3 app.py
 ```
-This sources will help you to run following project:
-for macOS user : https://www.maketecheasier.com/run-python-script-in-mac
-for Linux user : https://www.educative.io/edpresso/how-to-run-a-python-script-in-linux
+This sources will help you to run following project:/
+for macOS user : https://www.maketecheasier.com/run-python-script-in-mac/
+for Linux user : https://www.educative.io/edpresso/how-to-run-a-python-script-in-linux/
 
 #### Windows User
 Open Command Prompt :

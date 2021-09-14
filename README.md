@@ -35,7 +35,6 @@ $ pip install -r requirements.txt
 ```
 
 ## Run
-> STEP 1
 #### Linux and macOS User
 Open terminal :
 ```bash

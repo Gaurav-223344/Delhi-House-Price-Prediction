@@ -11,7 +11,7 @@
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
   * [Contributor](#contributor)
-  * [Credits](#credits)
+  * [Acknowledgements](#acknowledgements)
 
 ## Screenshots of Application
 <img target="_blank" src="https://raw.githubusercontent.com/Gaurav-223344/Delhi-House-Price-Prediction/main/static/img/demo.png" width=700>
@@ -85,5 +85,5 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 ## Contributor
 [Gaurav-Gaikwad](https://github.com/Gaurav-223344)
 
-## Credits
-- [Delhi House Price Prediction Dataset(Kaggle)](https://www.kaggle.com/neelkamal692/delhi-house-price-prediction?select=MagicBricks.csv) - This project wouldn't have been possible without this dataset. It saved my enormous amount of time while collecting the data.
+## Acknowledgements
+- [Kaggle](https://www.kaggle.com/neelkamal692/delhi-house-price-prediction?select=MagicBricks.csv) - This project wouldn't have been possible without this dataset. It saved my enormous amount of time while collecting the data.
